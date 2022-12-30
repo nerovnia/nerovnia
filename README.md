@@ -1,7 +1,9 @@
 
 # This «thing» is under construction...
 
-<strong> Hi there, I'm Volodymyr </strong>
+<strong> Hi there, I'm Volodymyr Nerovnia</strong>
+
+I am a full-stack developer based in Ukraine.
 
 &#9745; I’m currently working on a lot of different stuff
 
