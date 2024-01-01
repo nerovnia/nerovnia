@@ -1,5 +1,7 @@
 
-# Hi there, I'm Volodymyr Nerovnia
+# Hi there, I'm Volodymyr Nerovnia 👋
+
+I enjoy working with Node.js, React, Vue, Postgree, MySQL, MongoDB 
 
 <strong>I am a full-stack developer based in Ukraine.</strong>
 
@@ -12,6 +14,8 @@
 &#9745; How to reach me: nerv@i.ua
 
 &#9745; Fun fact: I love what I do - code and help people learn coding
+
+**Linux is the best!**
 
 ### Certificates
 #### MongoDB
