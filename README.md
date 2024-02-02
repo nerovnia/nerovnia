@@ -25,11 +25,7 @@ I enjoy working with Node.js, React, Vue, Postgree, MySQL, MongoDB
 
 [M121: The MongoDB Aggregation Framework](https://university.mongodb.com/course_completion/97ff2af7-e822-4273-98a4-cbc70e11e84b)
 
-```js client
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="nerovnia" data-color="#FFDD00" data-emoji="☕" data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" >
-   
-</script>
-```
+<a href="https://www.buymeacoffee.com/nerovnia" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ### My stack and tools
 
