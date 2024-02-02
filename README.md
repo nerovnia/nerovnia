@@ -25,6 +25,8 @@ I enjoy working with Node.js, React, Vue, Postgree, MySQL, MongoDB
 
 [M121: The MongoDB Aggregation Framework](https://university.mongodb.com/course_completion/97ff2af7-e822-4273-98a4-cbc70e11e84b)
 
+https://www.buymeacoffee.com/nerovnia
+
 ### My stack and tools
 
 
