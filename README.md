@@ -15,6 +15,10 @@ I enjoy working with Node.js, React, Vue, Postgree, MySQL, MongoDB
 
 &#9745; How to reach me: nerv@i.ua
 
+
+- 💼 any freelance work? do reach, [email](mailto:nerv@i.ua) :)
+- 💬 ask me about anything, i am happy to help;
+
 &#9745; Fun fact: I love what I do - code and help people learn coding
 
 ![](https://komarev.com/ghpvc/?username=nerovnia&color=green)
