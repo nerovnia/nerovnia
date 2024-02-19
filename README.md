@@ -1,6 +1,8 @@
 
 # Hi there, I'm Volodymyr Nerovnia 👋
 
+Welcome to my page! 
+
 I enjoy working with Node.js, React, Vue, Postgree, MySQL, MongoDB 
 
 <strong>I am a full-stack developer based in Ukraine.</strong>
@@ -16,6 +18,10 @@ I enjoy working with Node.js, React, Vue, Postgree, MySQL, MongoDB
 &#9745; Fun fact: I love what I do - code and help people learn coding
 
 ![](https://komarev.com/ghpvc/?username=nerovnia&color=green)
+
+<h3>Where to find me</h3>
+<p><a href="https://github.com/nerovnia" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/volodymyr-nerovnia/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+</p>
 
 ### Certificates
 #### MongoDB
