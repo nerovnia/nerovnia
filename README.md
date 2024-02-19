@@ -13,9 +13,6 @@ I enjoy working with Node.js, React, Vue, Postgree, MySQL, MongoDB
 
 &#9745; I’m looking for help with finding more time in a single day
 
-&#9745; How to reach me: nerv@i.ua
-
-
 - 💼 any freelance work? do reach, [email](mailto:nerv@i.ua) :)
 - 💬 ask me about anything, i am happy to help;
 
