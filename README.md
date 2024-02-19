@@ -3,9 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=nerovnia&color=green)
 
-|-|-|
-
-Welcome to my page! 
+## Welcome to my page! 
 
 I enjoy working with Node.js, React, Vue, Postgree, MySQL, MongoDB 
 
