@@ -3,6 +3,8 @@
 
 ![](https://komarev.com/ghpvc/?username=nerovnia&color=green)
 
+|-|-|
+
 Welcome to my page! 
 
 I enjoy working with Node.js, React, Vue, Postgree, MySQL, MongoDB 
@@ -20,7 +22,7 @@ I enjoy working with Node.js, React, Vue, Postgree, MySQL, MongoDB
 
 &#9745; Fun fact: I love what I do - code and help people learn coding
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nerovnia&layout=compact)
 
 ### My stack and tools
 
