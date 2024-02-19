@@ -20,6 +20,7 @@ I enjoy working with Node.js, React, Vue, Postgree, MySQL, MongoDB
 
 &#9745; Fun fact: I love what I do - code and help people learn coding
 
+![Nerovnia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nerovnia&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nerovnia&layout=compact)
 
 ### My stack and tools
